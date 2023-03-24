@@ -5,4 +5,4 @@ Download the setup [https://github.com/eluCve/Wordle-Clone-for-Desktop/releases/
 
 Download and run setup to install this application.
 
-_Since this application doesn't have a windows license, it might be flagged by your system. To run click "More info" and then "Run"._
+_Since this application doesn't have a windows license, it might be flagged by your system. To run click "More info" and then "Run Anyway"._
